@@ -1,0 +1,27 @@
+﻿/************************************************************************
+ * CSX Industry - Life Support Part+Plugin Pack for Kerbal Space Program*
+ *                                                                      *
+ * Initial Alpha Release Version 0.6a                                   *
+ *                                                                      *
+ * Created by Charlie S.                                                *
+ * Built on July 26th, 2014                                             *
+ * Initial Built on July 12th, 2014                                     *
+ ************************************************************************/
+
+ License -
+
+ Abstract : 
+ 1. All parts of CSX Industry Life Support Part and Plugin are protected by Creative commons license, CC-BY-NC-SA 4.0
+ 2. CSX Industry is a fictional company designed to identify Life Support Part and Plugin among others.
+ 3. CSX Industry Life Support Part and Plugin Mod is designed for Kerbal Space Program, created by Squad.
+
+ Upon using this Mod, you agree to following conditions -
+ BY : If distributed to other wesites, one MAY NOT upload the mod directly, whole or part. One may use hyperlink.
+ NC : This product is not meant for sale. Using this mod as a source of income or revenue making is prohibited.
+ SA : One may alter the source codes and configuration files for personal or public use. However, models and textures are not allowed to be altered.
+ SA : If uploaded to public, altered source code or configuration files are bounded to CC-BY-NC-SA 4.0
+
+ Upon creating alternative or derivation of the original work, you agree to following conditions -
+ 1. One may not use ANY part of the source codes, whole or part, to create independant work.
+ 2. One may reference ANY part of the source codes, whole or part, to create independant work. However, upon uploading the work, comment of original source must be made within the source code.
+ 3. One may not copy ANY part of the source codes, whole or part, to create independant work.
